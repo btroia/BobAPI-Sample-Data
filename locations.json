@@ -1,0 +1,875 @@
+[
+    {
+        "updatedAt": "2016-08-11T19:24:12.556Z",
+        "createdAt": "2016-08-11T19:24:12.556Z",
+        "type": "foursquare",
+        "name": "Mizu",
+        "startTs": "2016-03-12T02:44:32.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-12T03:55:51.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.617651,
+                "lon": -73.958119
+            }
+        ],
+        "id": "57acd0dc99788ef500f678f7"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:12.919Z",
+        "createdAt": "2016-08-11T19:24:12.919Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-12T04:06:54.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-12T17:22:33.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0dc99788ef500f6790c"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:12.922Z",
+        "createdAt": "2016-08-11T19:24:12.922Z",
+        "type": "unknown",
+        "startTs": "2016-03-12T17:38:20.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-12T18:12:11.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.620321,
+                "lon": -73.958464
+            }
+        ],
+        "id": "57acd0dc99788ef500f6790d"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:12.925Z",
+        "createdAt": "2016-08-11T19:24:12.925Z",
+        "type": "foursquare",
+        "name": "The Meat Hook",
+        "startTs": "2016-03-12T18:33:57.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-12T18:39:06.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.61763717939371,
+                "lon": -73.94783310595132
+            }
+        ],
+        "id": "57acd0dc99788ef500f6790e"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:12.928Z",
+        "createdAt": "2016-08-11T19:24:12.928Z",
+        "type": "facebook",
+        "name": "The Meat Hook",
+        "startTs": "2016-03-12T18:44:44.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-12T18:57:14.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6166681,
+                "lon": -73.9448453
+            }
+        ],
+        "id": "57acd0dc99788ef500f6790f"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:12.974Z",
+        "createdAt": "2016-08-11T19:24:12.974Z",
+        "type": "unknown",
+        "startTs": "2016-03-12T19:04:27.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-12T19:15:06.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6141,
+                "lon": -73.949556
+            }
+        ],
+        "id": "57acd0dc99788ef500f67910"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:12.991Z",
+        "createdAt": "2016-08-11T19:24:12.991Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-12T19:26:46.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-12T20:56:35.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0dc99788ef500f67911"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.011Z",
+        "createdAt": "2016-08-11T19:24:13.011Z",
+        "type": "unknown",
+        "startTs": "2016-03-12T21:12:17.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-12T21:27:33.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616192,
+                "lon": -73.966252
+            }
+        ],
+        "id": "57acd0dd99788ef500f67912"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.013Z",
+        "createdAt": "2016-08-11T19:24:13.013Z",
+        "type": "unknown",
+        "startTs": "2016-03-12T22:16:37.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-12T22:29:03.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6193526818,
+                "lon": -73.9616444961
+            }
+        ],
+        "id": "57acd0dd99788ef500f67913"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.016Z",
+        "createdAt": "2016-08-11T19:24:13.016Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-12T22:48:09.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T01:53:04.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0dd99788ef500f67914"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.019Z",
+        "createdAt": "2016-08-11T19:24:13.019Z",
+        "type": "unknown",
+        "startTs": "2016-03-13T02:03:16.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T03:02:03.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.614091,
+                "lon": -73.949974
+            }
+        ],
+        "id": "57acd0dd99788ef500f67915"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.024Z",
+        "createdAt": "2016-08-11T19:24:13.024Z",
+        "type": "user",
+        "name": "Home",
+        "startTs": "2016-03-13T03:13:08.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T03:51:54.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6127662839,
+                "lon": -73.9583811389
+            }
+        ],
+        "id": "57acd0dd99788ef500f67916"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.028Z",
+        "createdAt": "2016-08-11T19:24:13.028Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-13T03:55:00.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T15:23:27.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0dd99788ef500f67917"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.418Z",
+        "createdAt": "2016-08-11T19:24:13.418Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-13T03:55:00.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T15:23:27.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0dd99788ef500f6791b"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.422Z",
+        "createdAt": "2016-08-11T19:24:13.422Z",
+        "type": "unknown",
+        "startTs": "2016-03-13T16:08:49.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T16:35:07.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.694563,
+                "lon": -74.000789
+            }
+        ],
+        "id": "57acd0dd99788ef500f6791c"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.428Z",
+        "createdAt": "2016-08-11T19:24:13.428Z",
+        "type": "unknown",
+        "startTs": "2016-03-13T16:35:07.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T17:04:57.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.694676,
+                "lon": -74.002204
+            }
+        ],
+        "id": "57acd0dd99788ef500f6791d"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.431Z",
+        "createdAt": "2016-08-11T19:24:13.431Z",
+        "type": "unknown",
+        "startTs": "2016-03-13T17:11:15.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T17:14:34.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.694256,
+                "lon": -74.000839
+            }
+        ],
+        "id": "57acd0dd99788ef500f6791e"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.472Z",
+        "createdAt": "2016-08-11T19:24:13.472Z",
+        "type": "unknown",
+        "startTs": "2016-03-13T17:32:10.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T17:38:19.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.603393,
+                "lon": -73.995718
+            }
+        ],
+        "id": "57acd0dd99788ef500f6791f"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.502Z",
+        "createdAt": "2016-08-11T19:24:13.502Z",
+        "type": "unknown",
+        "startTs": "2016-03-13T17:52:13.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T18:03:08.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.620456,
+                "lon": -73.961988
+            }
+        ],
+        "id": "57acd0dd99788ef500f67920"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.516Z",
+        "createdAt": "2016-08-11T19:24:13.516Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-13T18:21:11.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T19:59:09.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0dd99788ef500f67921"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.520Z",
+        "createdAt": "2016-08-11T19:24:13.520Z",
+        "type": "facebook",
+        "name": "Chalk Gyms",
+        "startTs": "2016-03-13T20:10:32.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-13T20:57:34.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.618284540171,
+                "lon": -73.955258839458
+            }
+        ],
+        "id": "57acd0dd99788ef500f67922"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.523Z",
+        "createdAt": "2016-08-11T19:24:13.523Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-13T21:10:21.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-14T15:22:31.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0dd99788ef500f67923"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.693Z",
+        "createdAt": "2016-08-11T19:24:13.693Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-13T21:10:21.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-14T15:22:31.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0dd99788ef500f67924"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.708Z",
+        "createdAt": "2016-08-11T19:24:13.708Z",
+        "type": "unknown",
+        "startTs": "2016-03-14T15:29:56.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-14T15:34:18.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6138508414,
+                "lon": -73.9546992283
+            }
+        ],
+        "id": "57acd0dd99788ef500f67925"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.713Z",
+        "createdAt": "2016-08-11T19:24:13.713Z",
+        "type": "unknown",
+        "startTs": "2016-03-14T15:42:42.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-14T17:54:45.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616818,
+                "lon": -73.96059
+            }
+        ],
+        "id": "57acd0dd99788ef500f67926"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.720Z",
+        "createdAt": "2016-08-11T19:24:13.720Z",
+        "type": "unknown",
+        "startTs": "2016-03-14T17:58:01.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-14T22:00:04.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616818,
+                "lon": -73.96059
+            }
+        ],
+        "id": "57acd0dd99788ef500f67927"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.723Z",
+        "createdAt": "2016-08-11T19:24:13.723Z",
+        "type": "unknown",
+        "startTs": "2016-03-14T22:07:48.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-15T00:22:29.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.618983,
+                "lon": -73.956489
+            }
+        ],
+        "id": "57acd0dd99788ef500f67928"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:13.726Z",
+        "createdAt": "2016-08-11T19:24:13.726Z",
+        "type": "unknown",
+        "startTs": "2016-03-15T00:30:00.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-15T16:13:23.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.614438,
+                "lon": -73.957514
+            }
+        ],
+        "id": "57acd0dd99788ef500f67929"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.025Z",
+        "createdAt": "2016-08-11T19:24:14.025Z",
+        "type": "unknown",
+        "startTs": "2016-03-15T00:30:00.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-15T16:13:23.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.614438,
+                "lon": -73.957514
+            }
+        ],
+        "id": "57acd0de99788ef500f6792c"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.028Z",
+        "createdAt": "2016-08-11T19:24:14.028Z",
+        "type": "unknown",
+        "startTs": "2016-03-15T16:25:25.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-15T20:36:58.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616818,
+                "lon": -73.96059
+            }
+        ],
+        "id": "57acd0de99788ef500f6792d"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.030Z",
+        "createdAt": "2016-08-11T19:24:14.030Z",
+        "type": "unknown",
+        "startTs": "2016-03-15T20:41:35.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-15T22:15:14.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6159666499,
+                "lon": -73.9592951573
+            }
+        ],
+        "id": "57acd0de99788ef500f6792e"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.032Z",
+        "createdAt": "2016-08-11T19:24:14.032Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-15T22:23:52.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-16T15:12:25.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0de99788ef500f6792f"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.315Z",
+        "createdAt": "2016-08-11T19:24:14.315Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-15T22:23:52.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-16T15:12:25.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0de99788ef500f67932"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.319Z",
+        "createdAt": "2016-08-11T19:24:14.319Z",
+        "type": "unknown",
+        "startTs": "2016-03-16T15:35:35.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-16T19:33:48.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616818,
+                "lon": -73.96059
+            }
+        ],
+        "id": "57acd0de99788ef500f67933"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.322Z",
+        "createdAt": "2016-08-11T19:24:14.322Z",
+        "type": "unknown",
+        "startTs": "2016-03-16T19:37:25.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-16T20:06:17.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6169986248,
+                "lon": -73.9586139316
+            }
+        ],
+        "id": "57acd0de99788ef500f67934"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.324Z",
+        "createdAt": "2016-08-11T19:24:14.324Z",
+        "type": "unknown",
+        "startTs": "2016-03-16T20:09:53.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-16T21:52:47.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616818,
+                "lon": -73.96059
+            }
+        ],
+        "id": "57acd0de99788ef500f67935"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.327Z",
+        "createdAt": "2016-08-11T19:24:14.327Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-16T22:02:15.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-16T23:37:18.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0de99788ef500f67936"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.330Z",
+        "createdAt": "2016-08-11T19:24:14.330Z",
+        "type": "foursquare",
+        "name": "Mccarren Park Soccer Pitch/Football Field & Running Track",
+        "startTs": "2016-03-16T23:48:56.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-17T01:02:16.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6198758007751,
+                "lon": -73.95146369934082
+            }
+        ],
+        "id": "57acd0de99788ef500f67937"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.333Z",
+        "createdAt": "2016-08-11T19:24:14.333Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-17T01:03:25.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-17T13:40:57.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0de99788ef500f67938"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.600Z",
+        "createdAt": "2016-08-11T19:24:14.600Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-17T01:03:25.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-17T13:40:57.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0de99788ef500f6793b"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.626Z",
+        "createdAt": "2016-08-11T19:24:14.626Z",
+        "type": "unknown",
+        "startTs": "2016-03-17T13:49:13.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-17T16:51:34.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616818,
+                "lon": -73.96059
+            }
+        ],
+        "id": "57acd0de99788ef500f6793c"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.628Z",
+        "createdAt": "2016-08-11T19:24:14.628Z",
+        "type": "foursquare",
+        "name": "Mizu",
+        "startTs": "2016-03-17T16:57:07.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-17T18:01:59.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.617651,
+                "lon": -73.958119
+            }
+        ],
+        "id": "57acd0de99788ef500f6793d"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.631Z",
+        "createdAt": "2016-08-11T19:24:14.631Z",
+        "type": "unknown",
+        "startTs": "2016-03-17T18:08:08.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-17T21:02:09.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616818,
+                "lon": -73.96059
+            }
+        ],
+        "id": "57acd0de99788ef500f6793e"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.633Z",
+        "createdAt": "2016-08-11T19:24:14.633Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-17T21:10:16.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-17T22:50:17.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0de99788ef500f6793f"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.635Z",
+        "createdAt": "2016-08-11T19:24:14.635Z",
+        "type": "unknown",
+        "startTs": "2016-03-17T23:10:47.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-18T01:10:13.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.642463,
+                "lon": -73.989983
+            }
+        ],
+        "id": "57acd0de99788ef500f67940"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.637Z",
+        "createdAt": "2016-08-11T19:24:14.637Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-18T01:32:36.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-18T15:28:02.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0de99788ef500f67941"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.827Z",
+        "createdAt": "2016-08-11T19:24:14.827Z",
+        "type": "home",
+        "name": "Home",
+        "startTs": "2016-03-18T01:32:36.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-18T15:28:02.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6124223887,
+                "lon": -73.9574719422
+            }
+        ],
+        "id": "57acd0de99788ef500f67944"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.830Z",
+        "createdAt": "2016-08-11T19:24:14.830Z",
+        "type": "unknown",
+        "startTs": "2016-03-18T15:37:46.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-18T17:49:22.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616818,
+                "lon": -73.96059
+            }
+        ],
+        "id": "57acd0de99788ef500f67945"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.833Z",
+        "createdAt": "2016-08-11T19:24:14.833Z",
+        "type": "unknown",
+        "startTs": "2016-03-18T17:53:45.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-18T18:00:00.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.6146090659,
+                "lon": -73.9615401192
+            }
+        ],
+        "id": "57acd0de99788ef500f67946"
+    },
+    {
+        "updatedAt": "2016-08-11T19:24:14.835Z",
+        "createdAt": "2016-08-11T19:24:14.835Z",
+        "type": "unknown",
+        "startTs": "2016-03-18T18:04:11.000Z",
+        "startTz": "America/New_York",
+        "endTs": "2016-03-18T21:54:14.000Z",
+        "endTz": "America/New_York",
+        "sourceId": "moves",
+        "location": [
+            {
+                "lat": 40.616818,
+                "lon": -73.96059
+            }
+        ],
+        "id": "57acd0de99788ef500f67947"
+    }
+]

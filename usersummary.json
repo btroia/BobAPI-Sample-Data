@@ -1,0 +1,13 @@
+{
+    "username": "bob",
+    "name": "Bob T",
+    "tz": "America/New_York",
+    "gender": "m",
+    "age": 44,
+    "height": "71.5",
+    "heightUnits": "in",
+    "weight": "166.8",
+    "weightUnits": "lb",
+    "bodyfat": "19.6",
+    "bodyfatUnits": "%"
+}

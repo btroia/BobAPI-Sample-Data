@@ -1,0 +1,4644 @@
+[
+    {
+        "sourceId": "basis",
+        "startTs": "2016-02-22T11:33:00.000Z",
+        "totalMins": 97,
+        "lightMins": 72,
+        "endTs": "2016-02-22T13:10:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.120Z",
+        "interruptions": 0,
+        "quality": 92,
+        "createdAt": "2016-09-30T19:47:35.120Z",
+        "deepMins": 11,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 3,
+        "remMins": 11,
+        "date": "2016-02-22",
+        "tossTurns": 7,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T11:41:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T11:41:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T11:48:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T11:48:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T11:51:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T11:51:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T12:49:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T12:49:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T12:57:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T12:57:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T13:03:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T13:03:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T13:09:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T13:09:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 45,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T11:33:00.000Z",
+                "endTs": "2016-02-22T12:18:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-02-22T12:18:00.000Z",
+                "endTs": "2016-02-22T12:29:00.000Z"
+            },
+            {
+                "totalMins": 25,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T12:29:00.000Z",
+                "endTs": "2016-02-22T12:54:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-22T12:54:00.000Z",
+                "endTs": "2016-02-22T12:55:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-02-22T12:55:00.000Z",
+                "endTs": "2016-02-22T12:58:00.000Z"
+            },
+            {
+                "totalMins": 10,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-22T12:58:00.000Z",
+                "endTs": "2016-02-22T13:08:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T13:08:00.000Z",
+                "endTs": "2016-02-22T13:10:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f769c"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-02-23T04:43:00.000Z",
+        "totalMins": 309,
+        "lightMins": 180,
+        "endTs": "2016-02-23T09:52:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.120Z",
+        "interruptions": 1,
+        "quality": 87,
+        "createdAt": "2016-09-30T19:47:35.120Z",
+        "deepMins": 40,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 0,
+        "remMins": 74,
+        "date": "2016-02-22",
+        "tossTurns": 33,
+        "interruptMins": 15,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T04:54:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T04:54:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T04:58:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T04:58:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T04:59:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T04:59:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T05:18:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T05:18:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T05:27:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T05:27:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T05:30:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T05:30:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T05:31:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T05:31:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T05:45:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T05:45:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T05:50:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T05:50:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:01:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:01:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:02:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:02:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:05:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:05:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:09:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:09:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:10:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:10:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:13:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:13:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:14:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:14:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:15:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:15:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:16:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:16:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:17:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:17:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:23:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:23:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:24:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:24:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T07:25:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T07:25:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:11:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:11:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:14:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:14:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:16:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:16:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:24:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:24:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:25:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:25:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:29:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:29:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:30:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:30:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:32:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:32:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:33:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:33:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:47:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:47:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-23T08:55:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-23T08:55:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 33,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-23T04:43:00.000Z",
+                "endTs": "2016-02-23T05:16:00.000Z"
+            },
+            {
+                "totalMins": 16,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-23T05:16:00.000Z",
+                "endTs": "2016-02-23T05:32:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-23T05:32:00.000Z",
+                "endTs": "2016-02-23T05:43:00.000Z"
+            },
+            {
+                "totalMins": 8,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-23T05:43:00.000Z",
+                "endTs": "2016-02-23T05:51:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-23T05:51:00.000Z",
+                "endTs": "2016-02-23T05:57:00.000Z"
+            },
+            {
+                "totalMins": 35,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-02-23T05:57:00.000Z",
+                "endTs": "2016-02-23T06:32:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-23T06:32:00.000Z",
+                "endTs": "2016-02-23T06:43:00.000Z"
+            },
+            {
+                "totalMins": 5,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-02-23T06:43:00.000Z",
+                "endTs": "2016-02-23T06:48:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-23T06:48:00.000Z",
+                "endTs": "2016-02-23T06:54:00.000Z"
+            },
+            {
+                "totalMins": 26,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-23T06:54:00.000Z",
+                "endTs": "2016-02-23T07:20:00.000Z"
+            },
+            {
+                "totalMins": 81,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-23T07:20:00.000Z",
+                "endTs": "2016-02-23T08:41:00.000Z"
+            },
+            {
+                "totalMins": 24,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-23T08:41:00.000Z",
+                "endTs": "2016-02-23T09:05:00.000Z"
+            },
+            {
+                "totalMins": 15,
+                "startTz": "America/New_York",
+                "type": "interruption",
+                "startTs": "2016-02-23T09:05:00.000Z",
+                "endTs": "2016-02-23T09:20:00.000Z"
+            },
+            {
+                "totalMins": 32,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-23T09:20:00.000Z",
+                "endTs": "2016-02-23T09:52:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f769d"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-03-03T05:09:00.000Z",
+        "totalMins": 158,
+        "lightMins": 75,
+        "endTs": "2016-03-03T07:47:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.243Z",
+        "interruptions": 0,
+        "quality": 94,
+        "createdAt": "2016-09-30T19:47:35.243Z",
+        "deepMins": 39,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 3,
+        "remMins": 41,
+        "date": "2016-03-02",
+        "tossTurns": 1,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T06:20:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T06:20:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 25,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T05:09:00.000Z",
+                "endTs": "2016-03-03T05:34:00.000Z"
+            },
+            {
+                "totalMins": 23,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-03-03T05:34:00.000Z",
+                "endTs": "2016-03-03T05:57:00.000Z"
+            },
+            {
+                "totalMins": 13,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T05:57:00.000Z",
+                "endTs": "2016-03-03T06:10:00.000Z"
+            },
+            {
+                "totalMins": 14,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-03-03T06:10:00.000Z",
+                "endTs": "2016-03-03T06:24:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T06:24:00.000Z",
+                "endTs": "2016-03-03T06:25:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-03-03T06:25:00.000Z",
+                "endTs": "2016-03-03T06:28:00.000Z"
+            },
+            {
+                "totalMins": 18,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T06:28:00.000Z",
+                "endTs": "2016-03-03T06:46:00.000Z"
+            },
+            {
+                "totalMins": 16,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-03-03T06:46:00.000Z",
+                "endTs": "2016-03-03T07:02:00.000Z"
+            },
+            {
+                "totalMins": 5,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T07:02:00.000Z",
+                "endTs": "2016-03-03T07:07:00.000Z"
+            },
+            {
+                "totalMins": 16,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-03-03T07:07:00.000Z",
+                "endTs": "2016-03-03T07:23:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T07:23:00.000Z",
+                "endTs": "2016-03-03T07:34:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-03-03T07:34:00.000Z",
+                "endTs": "2016-03-03T07:45:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T07:45:00.000Z",
+                "endTs": "2016-03-03T07:47:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76a2"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-03-03T08:07:00.000Z",
+        "totalMins": 260,
+        "lightMins": 158,
+        "endTs": "2016-03-03T12:27:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.243Z",
+        "interruptions": 0,
+        "quality": 90,
+        "createdAt": "2016-09-30T19:47:35.243Z",
+        "deepMins": 31,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 3,
+        "remMins": 68,
+        "date": "2016-03-02",
+        "tossTurns": 28,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T08:52:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T08:52:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T08:56:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T08:56:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T09:02:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T09:02:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T09:10:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T09:10:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T09:11:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T09:11:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T09:15:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T09:15:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T09:16:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T09:16:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T09:18:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T09:18:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T09:19:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T09:19:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T09:26:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T09:26:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T09:34:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T09:34:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T10:17:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T10:17:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T10:19:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T10:19:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T10:29:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T10:29:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T10:38:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T10:38:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T10:47:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T10:47:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T11:00:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T11:00:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T11:01:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T11:01:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T11:04:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T11:04:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T11:05:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T11:05:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T11:06:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T11:06:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T11:11:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T11:11:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T11:12:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T11:12:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T12:03:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T12:03:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T12:04:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T12:04:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T12:10:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T12:10:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T12:15:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T12:15:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-03-03T12:16:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-03-03T12:16:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T08:07:00.000Z",
+                "endTs": "2016-03-03T08:18:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-03-03T08:18:00.000Z",
+                "endTs": "2016-03-03T08:25:00.000Z"
+            },
+            {
+                "totalMins": 28,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T08:25:00.000Z",
+                "endTs": "2016-03-03T08:53:00.000Z"
+            },
+            {
+                "totalMins": 26,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-03-03T08:53:00.000Z",
+                "endTs": "2016-03-03T09:19:00.000Z"
+            },
+            {
+                "totalMins": 25,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T09:19:00.000Z",
+                "endTs": "2016-03-03T09:44:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-03-03T09:44:00.000Z",
+                "endTs": "2016-03-03T09:56:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T09:56:00.000Z",
+                "endTs": "2016-03-03T10:03:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-03-03T10:03:00.000Z",
+                "endTs": "2016-03-03T10:15:00.000Z"
+            },
+            {
+                "totalMins": 9,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T10:15:00.000Z",
+                "endTs": "2016-03-03T10:24:00.000Z"
+            },
+            {
+                "totalMins": 5,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-03-03T10:24:00.000Z",
+                "endTs": "2016-03-03T10:29:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T10:29:00.000Z",
+                "endTs": "2016-03-03T10:32:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-03-03T10:32:00.000Z",
+                "endTs": "2016-03-03T10:39:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T10:39:00.000Z",
+                "endTs": "2016-03-03T10:50:00.000Z"
+            },
+            {
+                "totalMins": 8,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-03-03T10:50:00.000Z",
+                "endTs": "2016-03-03T10:58:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-03-03T10:58:00.000Z",
+                "endTs": "2016-03-03T11:01:00.000Z"
+            },
+            {
+                "totalMins": 4,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-03-03T11:01:00.000Z",
+                "endTs": "2016-03-03T11:05:00.000Z"
+            },
+            {
+                "totalMins": 14,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T11:05:00.000Z",
+                "endTs": "2016-03-03T11:19:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-03-03T11:19:00.000Z",
+                "endTs": "2016-03-03T11:26:00.000Z"
+            },
+            {
+                "totalMins": 39,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T11:26:00.000Z",
+                "endTs": "2016-03-03T12:05:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-03-03T12:05:00.000Z",
+                "endTs": "2016-03-03T12:16:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-03-03T12:16:00.000Z",
+                "endTs": "2016-03-03T12:27:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76a3"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-04-24T13:54:00.000Z",
+        "totalMins": 45,
+        "lightMins": 45,
+        "endTs": "2016-04-24T14:39:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.474Z",
+        "interruptions": 0,
+        "quality": 88,
+        "createdAt": "2016-09-30T19:47:35.474Z",
+        "deepMins": 0,
+        "startTz": "America/Los_Angeles",
+        "endTz": "America/Los_Angeles",
+        "unknownMins": 0,
+        "remMins": 0,
+        "date": "2016-04-24",
+        "tossTurns": 4,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-24T14:00:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-24T14:00:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-24T14:12:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-24T14:12:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-24T14:21:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-24T14:21:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-24T14:38:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-24T14:38:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 45,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-24T13:54:00.000Z",
+                "endTs": "2016-04-24T14:39:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76b6"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-04-25T07:06:00.000Z",
+        "totalMins": 252,
+        "lightMins": 161,
+        "endTs": "2016-04-25T11:18:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.474Z",
+        "interruptions": 2,
+        "quality": 86,
+        "createdAt": "2016-09-30T19:47:35.474Z",
+        "deepMins": 20,
+        "startTz": "America/Los_Angeles",
+        "endTz": "America/Los_Angeles",
+        "unknownMins": 0,
+        "remMins": 57,
+        "date": "2016-04-24",
+        "tossTurns": 14,
+        "interruptMins": 14,
+        "events": [
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T07:31:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T07:31:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T07:32:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T07:32:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T07:47:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T07:47:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T08:21:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T08:21:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T08:22:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T08:22:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T08:25:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T08:25:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T08:32:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T08:32:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T09:37:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T09:37:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T10:57:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T10:57:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T10:58:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T10:58:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T10:59:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T10:59:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T11:07:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T11:07:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T11:12:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T11:12:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-25T11:15:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-04-25T11:15:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 15,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-25T07:06:00.000Z",
+                "endTs": "2016-04-25T07:21:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/Los_Angeles",
+                "type": "deep",
+                "startTs": "2016-04-25T07:21:00.000Z",
+                "endTs": "2016-04-25T07:33:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-25T07:33:00.000Z",
+                "endTs": "2016-04-25T07:39:00.000Z"
+            },
+            {
+                "totalMins": 5,
+                "startTz": "America/Los_Angeles",
+                "type": "deep",
+                "startTs": "2016-04-25T07:39:00.000Z",
+                "endTs": "2016-04-25T07:44:00.000Z"
+            },
+            {
+                "totalMins": 18,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-25T07:44:00.000Z",
+                "endTs": "2016-04-25T08:02:00.000Z"
+            },
+            {
+                "totalMins": 13,
+                "startTz": "America/Los_Angeles",
+                "type": "interruption",
+                "startTs": "2016-04-25T08:02:00.000Z",
+                "endTs": "2016-04-25T08:15:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-25T08:15:00.000Z",
+                "endTs": "2016-04-25T08:18:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-04-25T08:18:00.000Z",
+                "endTs": "2016-04-25T08:25:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-25T08:25:00.000Z",
+                "endTs": "2016-04-25T08:37:00.000Z"
+            },
+            {
+                "totalMins": 27,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-04-25T08:37:00.000Z",
+                "endTs": "2016-04-25T09:04:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-25T09:04:00.000Z",
+                "endTs": "2016-04-25T09:16:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/Los_Angeles",
+                "type": "interruption",
+                "startTs": "2016-04-25T09:16:00.000Z",
+                "endTs": "2016-04-25T09:17:00.000Z"
+            },
+            {
+                "totalMins": 17,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-25T09:17:00.000Z",
+                "endTs": "2016-04-25T09:34:00.000Z"
+            },
+            {
+                "totalMins": 23,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-04-25T09:34:00.000Z",
+                "endTs": "2016-04-25T09:57:00.000Z"
+            },
+            {
+                "totalMins": 15,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-25T09:57:00.000Z",
+                "endTs": "2016-04-25T10:12:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/Los_Angeles",
+                "type": "deep",
+                "startTs": "2016-04-25T10:12:00.000Z",
+                "endTs": "2016-04-25T10:15:00.000Z"
+            },
+            {
+                "totalMins": 63,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-04-25T10:15:00.000Z",
+                "endTs": "2016-04-25T11:18:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76b7"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-06-19T03:40:00.000Z",
+        "totalMins": 479,
+        "lightMins": 263,
+        "endTs": "2016-06-19T11:39:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.581Z",
+        "interruptions": 1,
+        "quality": 85,
+        "createdAt": "2016-09-30T19:47:35.581Z",
+        "deepMins": 88,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 8,
+        "remMins": 105,
+        "date": "2016-06-18",
+        "tossTurns": 46,
+        "interruptMins": 15,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T03:51:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T03:51:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T04:59:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T04:59:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T05:02:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T05:02:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T05:58:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T05:58:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T05:59:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T05:59:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:00:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:00:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:03:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:03:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:06:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:06:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:11:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:11:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:13:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:13:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:15:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:15:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:16:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:16:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:27:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:27:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:28:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:28:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:31:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:31:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T06:40:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T06:40:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:06:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:06:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:19:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:19:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:24:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:24:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:25:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:25:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:32:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:32:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:38:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:38:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:39:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:39:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:40:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:40:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:43:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:43:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T08:44:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T08:44:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:13:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:13:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:41:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:41:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:42:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:42:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:43:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:43:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:46:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:46:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:47:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:47:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:50:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:50:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:51:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:51:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:55:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:55:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T09:58:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T09:58:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T10:01:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T10:01:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T10:08:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T10:08:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T10:10:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T10:10:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T10:27:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T10:27:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T10:46:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T10:46:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T11:21:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T11:21:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T11:23:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T11:23:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T11:25:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T11:25:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T11:26:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T11:26:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-06-19T11:28:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-06-19T11:28:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 24,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T03:40:00.000Z",
+                "endTs": "2016-06-19T04:04:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-06-19T04:04:00.000Z",
+                "endTs": "2016-06-19T04:15:00.000Z"
+            },
+            {
+                "totalMins": 13,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T04:15:00.000Z",
+                "endTs": "2016-06-19T04:28:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T04:28:00.000Z",
+                "endTs": "2016-06-19T04:35:00.000Z"
+            },
+            {
+                "totalMins": 15,
+                "startTz": "America/New_York",
+                "type": "interruption",
+                "startTs": "2016-06-19T04:35:00.000Z",
+                "endTs": "2016-06-19T04:50:00.000Z"
+            },
+            {
+                "totalMins": 10,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T04:50:00.000Z",
+                "endTs": "2016-06-19T05:00:00.000Z"
+            },
+            {
+                "totalMins": 9,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T05:00:00.000Z",
+                "endTs": "2016-06-19T05:09:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T05:09:00.000Z",
+                "endTs": "2016-06-19T05:10:00.000Z"
+            },
+            {
+                "totalMins": 46,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-06-19T05:10:00.000Z",
+                "endTs": "2016-06-19T05:56:00.000Z"
+            },
+            {
+                "totalMins": 5,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T05:56:00.000Z",
+                "endTs": "2016-06-19T06:01:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T06:01:00.000Z",
+                "endTs": "2016-06-19T06:04:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-06-19T06:04:00.000Z",
+                "endTs": "2016-06-19T06:07:00.000Z"
+            },
+            {
+                "totalMins": 4,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T06:07:00.000Z",
+                "endTs": "2016-06-19T06:11:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-06-19T06:11:00.000Z",
+                "endTs": "2016-06-19T06:14:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T06:14:00.000Z",
+                "endTs": "2016-06-19T06:17:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-06-19T06:17:00.000Z",
+                "endTs": "2016-06-19T06:19:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T06:19:00.000Z",
+                "endTs": "2016-06-19T06:31:00.000Z"
+            },
+            {
+                "totalMins": 4,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T06:31:00.000Z",
+                "endTs": "2016-06-19T06:35:00.000Z"
+            },
+            {
+                "totalMins": 31,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-06-19T06:35:00.000Z",
+                "endTs": "2016-06-19T07:06:00.000Z"
+            },
+            {
+                "totalMins": 5,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T07:06:00.000Z",
+                "endTs": "2016-06-19T07:11:00.000Z"
+            },
+            {
+                "totalMins": 13,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T07:11:00.000Z",
+                "endTs": "2016-06-19T07:24:00.000Z"
+            },
+            {
+                "totalMins": 39,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T07:24:00.000Z",
+                "endTs": "2016-06-19T08:03:00.000Z"
+            },
+            {
+                "totalMins": 16,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T08:03:00.000Z",
+                "endTs": "2016-06-19T08:19:00.000Z"
+            },
+            {
+                "totalMins": 97,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T08:19:00.000Z",
+                "endTs": "2016-06-19T09:56:00.000Z"
+            },
+            {
+                "totalMins": 24,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T09:56:00.000Z",
+                "endTs": "2016-06-19T10:20:00.000Z"
+            },
+            {
+                "totalMins": 64,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T10:20:00.000Z",
+                "endTs": "2016-06-19T11:24:00.000Z"
+            },
+            {
+                "totalMins": 14,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-06-19T11:24:00.000Z",
+                "endTs": "2016-06-19T11:38:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-06-19T11:38:00.000Z",
+                "endTs": "2016-06-19T11:39:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76bf"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-05-09T22:26:00.000Z",
+        "totalMins": 36,
+        "lightMins": 36,
+        "endTs": "2016-05-09T23:02:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.624Z",
+        "interruptions": 0,
+        "quality": 88,
+        "createdAt": "2016-09-30T19:47:35.624Z",
+        "deepMins": 0,
+        "startTz": "America/Los_Angeles",
+        "endTz": "America/Los_Angeles",
+        "unknownMins": 0,
+        "remMins": 0,
+        "date": "2016-05-09",
+        "tossTurns": 0,
+        "interruptMins": 0,
+        "events": [],
+        "stages": [
+            {
+                "totalMins": 36,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-09T22:26:00.000Z",
+                "endTs": "2016-05-09T23:02:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76c4"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-05-10T04:02:00.000Z",
+        "totalMins": 340,
+        "lightMins": 187,
+        "endTs": "2016-05-10T09:42:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.624Z",
+        "interruptions": 0,
+        "quality": 91,
+        "createdAt": "2016-09-30T19:47:35.624Z",
+        "deepMins": 66,
+        "startTz": "America/Los_Angeles",
+        "endTz": "America/Los_Angeles",
+        "unknownMins": 30,
+        "remMins": 57,
+        "date": "2016-05-09",
+        "tossTurns": 29,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T04:33:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T04:33:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T05:26:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T05:26:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T05:32:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T05:32:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T05:44:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T05:44:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T05:45:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T05:45:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T05:46:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T05:46:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T05:47:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T05:47:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T06:24:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T06:24:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T06:25:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T06:25:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T06:43:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T06:43:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T06:48:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T06:48:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T06:49:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T06:49:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T07:06:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T07:06:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T07:10:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T07:10:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T07:18:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T07:18:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T07:40:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T07:40:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T07:42:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T07:42:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T08:13:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T08:13:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T08:20:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T08:20:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T08:28:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T08:28:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T08:32:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T08:32:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T08:47:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T08:47:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T09:10:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T09:10:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T09:30:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T09:30:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T09:31:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T09:31:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T09:34:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T09:34:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T09:37:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T09:37:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T09:39:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T09:39:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-10T09:40:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-10T09:40:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 42,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-10T04:02:00.000Z",
+                "endTs": "2016-05-10T04:44:00.000Z"
+            },
+            {
+                "totalMins": 23,
+                "startTz": "America/Los_Angeles",
+                "type": "deep",
+                "startTs": "2016-05-10T04:44:00.000Z",
+                "endTs": "2016-05-10T05:07:00.000Z"
+            },
+            {
+                "totalMins": 35,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-10T05:07:00.000Z",
+                "endTs": "2016-05-10T05:42:00.000Z"
+            },
+            {
+                "totalMins": 13,
+                "startTz": "America/Los_Angeles",
+                "type": "deep",
+                "startTs": "2016-05-10T05:42:00.000Z",
+                "endTs": "2016-05-10T05:55:00.000Z"
+            },
+            {
+                "totalMins": 14,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-10T05:55:00.000Z",
+                "endTs": "2016-05-10T06:09:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/Los_Angeles",
+                "type": "deep",
+                "startTs": "2016-05-10T06:09:00.000Z",
+                "endTs": "2016-05-10T06:16:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-10T06:16:00.000Z",
+                "endTs": "2016-05-10T06:17:00.000Z"
+            },
+            {
+                "totalMins": 29,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-05-10T06:17:00.000Z",
+                "endTs": "2016-05-10T06:46:00.000Z"
+            },
+            {
+                "totalMins": 29,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-10T06:46:00.000Z",
+                "endTs": "2016-05-10T07:15:00.000Z"
+            },
+            {
+                "totalMins": 23,
+                "startTz": "America/Los_Angeles",
+                "type": "deep",
+                "startTs": "2016-05-10T07:15:00.000Z",
+                "endTs": "2016-05-10T07:38:00.000Z"
+            },
+            {
+                "totalMins": 4,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-10T07:38:00.000Z",
+                "endTs": "2016-05-10T07:42:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-05-10T07:42:00.000Z",
+                "endTs": "2016-05-10T07:43:00.000Z"
+            },
+            {
+                "totalMins": 30,
+                "startTz": "America/Los_Angeles",
+                "type": "unknown",
+                "startTs": "2016-05-10T07:43:00.000Z",
+                "endTs": "2016-05-10T08:13:00.000Z"
+            },
+            {
+                "totalMins": 27,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-05-10T08:13:00.000Z",
+                "endTs": "2016-05-10T08:40:00.000Z"
+            },
+            {
+                "totalMins": 62,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-10T08:40:00.000Z",
+                "endTs": "2016-05-10T09:42:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76c5"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-05-26T04:55:00.000Z",
+        "totalMins": 85,
+        "lightMins": 65,
+        "endTs": "2016-05-26T06:20:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.807Z",
+        "interruptions": 0,
+        "quality": 97,
+        "createdAt": "2016-09-30T19:47:35.807Z",
+        "deepMins": 0,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 0,
+        "remMins": 20,
+        "date": "2016-05-25",
+        "tossTurns": 0,
+        "interruptMins": 0,
+        "events": [],
+        "stages": [
+            {
+                "totalMins": 64,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T04:55:00.000Z",
+                "endTs": "2016-05-26T05:59:00.000Z"
+            },
+            {
+                "totalMins": 20,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-05-26T05:59:00.000Z",
+                "endTs": "2016-05-26T06:19:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T06:19:00.000Z",
+                "endTs": "2016-05-26T06:20:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76e2"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-05-26T06:59:00.000Z",
+        "totalMins": 311,
+        "lightMins": 181,
+        "endTs": "2016-05-26T12:10:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.808Z",
+        "interruptions": 0,
+        "quality": 94,
+        "createdAt": "2016-09-30T19:47:35.808Z",
+        "deepMins": 57,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 3,
+        "remMins": 70,
+        "date": "2016-05-25",
+        "tossTurns": 16,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T07:49:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T07:49:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T07:50:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T07:50:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T08:03:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T08:03:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T09:22:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T09:22:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T09:33:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T09:33:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T09:45:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T09:45:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T09:46:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T09:46:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T09:52:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T09:52:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T09:57:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T09:57:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T10:01:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T10:01:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T10:54:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T10:54:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T11:01:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T11:01:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T11:02:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T11:02:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T11:05:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T11:05:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T11:06:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T11:06:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-26T11:19:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-05-26T11:19:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 16,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T06:59:00.000Z",
+                "endTs": "2016-05-26T07:15:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-05-26T07:15:00.000Z",
+                "endTs": "2016-05-26T07:27:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T07:27:00.000Z",
+                "endTs": "2016-05-26T07:34:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-05-26T07:34:00.000Z",
+                "endTs": "2016-05-26T07:41:00.000Z"
+            },
+            {
+                "totalMins": 24,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T07:41:00.000Z",
+                "endTs": "2016-05-26T08:05:00.000Z"
+            },
+            {
+                "totalMins": 9,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-05-26T08:05:00.000Z",
+                "endTs": "2016-05-26T08:14:00.000Z"
+            },
+            {
+                "totalMins": 25,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T08:14:00.000Z",
+                "endTs": "2016-05-26T08:39:00.000Z"
+            },
+            {
+                "totalMins": 20,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-05-26T08:39:00.000Z",
+                "endTs": "2016-05-26T08:59:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T08:59:00.000Z",
+                "endTs": "2016-05-26T09:06:00.000Z"
+            },
+            {
+                "totalMins": 20,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-05-26T09:06:00.000Z",
+                "endTs": "2016-05-26T09:26:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T09:26:00.000Z",
+                "endTs": "2016-05-26T09:32:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-05-26T09:32:00.000Z",
+                "endTs": "2016-05-26T09:38:00.000Z"
+            },
+            {
+                "totalMins": 9,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T09:38:00.000Z",
+                "endTs": "2016-05-26T09:47:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-05-26T09:47:00.000Z",
+                "endTs": "2016-05-26T09:59:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T09:59:00.000Z",
+                "endTs": "2016-05-26T10:11:00.000Z"
+            },
+            {
+                "totalMins": 19,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-05-26T10:11:00.000Z",
+                "endTs": "2016-05-26T10:30:00.000Z"
+            },
+            {
+                "totalMins": 36,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T10:30:00.000Z",
+                "endTs": "2016-05-26T11:06:00.000Z"
+            },
+            {
+                "totalMins": 21,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-05-26T11:06:00.000Z",
+                "endTs": "2016-05-26T11:27:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-05-26T11:27:00.000Z",
+                "endTs": "2016-05-26T11:30:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-05-26T11:30:00.000Z",
+                "endTs": "2016-05-26T11:31:00.000Z"
+            },
+            {
+                "totalMins": 39,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-05-26T11:31:00.000Z",
+                "endTs": "2016-05-26T12:10:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76e3"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-02-09T10:44:00.000Z",
+        "totalMins": 113,
+        "lightMins": 76,
+        "endTs": "2016-02-09T12:37:00.000Z",
+        "updatedAt": "2016-09-30T19:47:35.920Z",
+        "interruptions": 0,
+        "quality": 91,
+        "createdAt": "2016-09-30T19:47:35.920Z",
+        "deepMins": 16,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 0,
+        "remMins": 21,
+        "date": "2016-02-09",
+        "tossTurns": 13,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T10:50:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T10:50:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T10:51:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T10:51:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T10:56:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T10:56:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T11:02:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T11:02:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T11:56:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T11:56:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T12:08:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T12:08:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T12:09:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T12:09:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T12:13:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T12:13:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T12:14:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T12:14:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T12:17:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T12:17:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T12:18:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T12:18:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T12:22:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T12:22:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-09T12:29:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-09T12:29:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 34,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-09T10:44:00.000Z",
+                "endTs": "2016-02-09T11:18:00.000Z"
+            },
+            {
+                "totalMins": 16,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-02-09T11:18:00.000Z",
+                "endTs": "2016-02-09T11:34:00.000Z"
+            },
+            {
+                "totalMins": 18,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-09T11:34:00.000Z",
+                "endTs": "2016-02-09T11:52:00.000Z"
+            },
+            {
+                "totalMins": 21,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-09T11:52:00.000Z",
+                "endTs": "2016-02-09T12:13:00.000Z"
+            },
+            {
+                "totalMins": 24,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-09T12:13:00.000Z",
+                "endTs": "2016-02-09T12:37:00.000Z"
+            }
+        ],
+        "id": "57eec157dd97fbe82c9f76f9"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-02-21T11:24:00.000Z",
+        "totalMins": 113,
+        "lightMins": 87,
+        "endTs": "2016-02-21T13:17:00.000Z",
+        "updatedAt": "2016-09-30T19:47:36.063Z",
+        "interruptions": 2,
+        "quality": 85,
+        "createdAt": "2016-09-30T19:47:36.063Z",
+        "deepMins": 0,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 1,
+        "remMins": 9,
+        "date": "2016-02-21",
+        "tossTurns": 7,
+        "interruptMins": 16,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-21T11:35:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-21T11:35:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-21T11:38:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-21T11:38:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-21T11:40:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-21T11:40:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-21T11:48:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-21T11:48:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-21T11:51:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-21T11:51:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-21T11:55:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-21T11:55:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-21T11:57:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-21T11:57:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 34,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-21T11:24:00.000Z",
+                "endTs": "2016-02-21T11:58:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-02-21T11:58:00.000Z",
+                "endTs": "2016-02-21T11:59:00.000Z"
+            },
+            {
+                "totalMins": 10,
+                "startTz": "America/New_York",
+                "type": "interruption",
+                "startTs": "2016-02-21T11:59:00.000Z",
+                "endTs": "2016-02-21T12:09:00.000Z"
+            },
+            {
+                "totalMins": 27,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-21T12:09:00.000Z",
+                "endTs": "2016-02-21T12:36:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-21T12:36:00.000Z",
+                "endTs": "2016-02-21T12:42:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "interruption",
+                "startTs": "2016-02-21T12:42:00.000Z",
+                "endTs": "2016-02-21T12:48:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-21T12:48:00.000Z",
+                "endTs": "2016-02-21T12:51:00.000Z"
+            },
+            {
+                "totalMins": 26,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-21T12:51:00.000Z",
+                "endTs": "2016-02-21T13:17:00.000Z"
+            }
+        ],
+        "id": "57eec158dd97fbe82c9f770d"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-02-22T05:34:00.000Z",
+        "totalMins": 138,
+        "lightMins": 93,
+        "endTs": "2016-02-22T07:52:00.000Z",
+        "updatedAt": "2016-09-30T19:47:36.063Z",
+        "interruptions": 0,
+        "quality": 91,
+        "createdAt": "2016-09-30T19:47:36.063Z",
+        "deepMins": 20,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 6,
+        "remMins": 19,
+        "date": "2016-02-21",
+        "tossTurns": 15,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T05:50:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T05:50:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T06:39:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T06:39:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T06:41:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T06:41:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T06:47:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T06:47:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T06:48:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T06:48:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T06:57:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T06:57:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T07:02:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T07:02:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T07:05:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T07:05:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T07:17:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T07:17:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T07:23:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T07:23:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T07:24:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T07:24:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T07:41:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T07:41:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T07:43:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T07:43:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T07:45:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T07:45:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T07:49:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T07:49:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T05:34:00.000Z",
+                "endTs": "2016-02-22T05:40:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-02-22T05:40:00.000Z",
+                "endTs": "2016-02-22T05:42:00.000Z"
+            },
+            {
+                "totalMins": 5,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T05:42:00.000Z",
+                "endTs": "2016-02-22T05:47:00.000Z"
+            },
+            {
+                "totalMins": 4,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-02-22T05:47:00.000Z",
+                "endTs": "2016-02-22T05:51:00.000Z"
+            },
+            {
+                "totalMins": 33,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T05:51:00.000Z",
+                "endTs": "2016-02-22T06:24:00.000Z"
+            },
+            {
+                "totalMins": 10,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-02-22T06:24:00.000Z",
+                "endTs": "2016-02-22T06:34:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T06:34:00.000Z",
+                "endTs": "2016-02-22T06:40:00.000Z"
+            },
+            {
+                "totalMins": 19,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-22T06:40:00.000Z",
+                "endTs": "2016-02-22T06:59:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T06:59:00.000Z",
+                "endTs": "2016-02-22T07:01:00.000Z"
+            },
+            {
+                "totalMins": 10,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-02-22T07:01:00.000Z",
+                "endTs": "2016-02-22T07:11:00.000Z"
+            },
+            {
+                "totalMins": 41,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T07:11:00.000Z",
+                "endTs": "2016-02-22T07:52:00.000Z"
+            }
+        ],
+        "id": "57eec158dd97fbe82c9f770e"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-02-22T08:39:00.000Z",
+        "totalMins": 32,
+        "lightMins": 32,
+        "endTs": "2016-02-22T09:11:00.000Z",
+        "updatedAt": "2016-09-30T19:47:36.064Z",
+        "interruptions": 0,
+        "quality": 93,
+        "createdAt": "2016-09-30T19:47:36.064Z",
+        "deepMins": 0,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 0,
+        "remMins": 0,
+        "date": "2016-02-21",
+        "tossTurns": 2,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T09:07:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T09:07:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T09:08:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T09:08:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 32,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T08:39:00.000Z",
+                "endTs": "2016-02-22T09:11:00.000Z"
+            }
+        ],
+        "id": "57eec158dd97fbe82c9f770f"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-02-22T09:34:00.000Z",
+        "totalMins": 97,
+        "lightMins": 78,
+        "endTs": "2016-02-22T11:11:00.000Z",
+        "updatedAt": "2016-09-30T19:47:36.064Z",
+        "interruptions": 0,
+        "quality": 90,
+        "createdAt": "2016-09-30T19:47:36.064Z",
+        "deepMins": 6,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 0,
+        "remMins": 13,
+        "date": "2016-02-21",
+        "tossTurns": 16,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:15:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:15:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:21:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:21:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:24:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:24:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:29:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:29:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:32:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:32:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:33:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:33:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:34:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:34:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:36:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:36:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:43:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:43:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:53:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:53:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:54:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:54:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:57:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:57:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T10:58:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T10:58:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T11:03:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T11:03:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T11:04:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T11:04:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-02-22T11:10:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-02-22T11:10:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 9,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T09:34:00.000Z",
+                "endTs": "2016-02-22T09:43:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-02-22T09:43:00.000Z",
+                "endTs": "2016-02-22T09:49:00.000Z"
+            },
+            {
+                "totalMins": 28,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T09:49:00.000Z",
+                "endTs": "2016-02-22T10:17:00.000Z"
+            },
+            {
+                "totalMins": 13,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-02-22T10:17:00.000Z",
+                "endTs": "2016-02-22T10:30:00.000Z"
+            },
+            {
+                "totalMins": 41,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-02-22T10:30:00.000Z",
+                "endTs": "2016-02-22T11:11:00.000Z"
+            }
+        ],
+        "id": "57eec158dd97fbe82c9f7710"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-04-05T03:42:00.000Z",
+        "totalMins": 40,
+        "lightMins": 40,
+        "endTs": "2016-04-05T04:22:00.000Z",
+        "updatedAt": "2016-09-30T19:47:36.233Z",
+        "interruptions": 0,
+        "quality": 88,
+        "createdAt": "2016-09-30T19:47:36.233Z",
+        "deepMins": 0,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 0,
+        "remMins": 0,
+        "date": "2016-04-04",
+        "tossTurns": 0,
+        "interruptMins": 0,
+        "events": [],
+        "stages": [
+            {
+                "totalMins": 40,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T03:42:00.000Z",
+                "endTs": "2016-04-05T04:22:00.000Z"
+            }
+        ],
+        "id": "57eec158dd97fbe82c9f772a"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-04-05T05:24:00.000Z",
+        "totalMins": 422,
+        "lightMins": 251,
+        "endTs": "2016-04-05T12:26:00.000Z",
+        "updatedAt": "2016-09-30T19:47:36.234Z",
+        "interruptions": 2,
+        "quality": 85,
+        "createdAt": "2016-09-30T19:47:36.234Z",
+        "deepMins": 46,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 15,
+        "remMins": 97,
+        "date": "2016-04-04",
+        "tossTurns": 37,
+        "interruptMins": 13,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T06:33:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T06:33:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T06:49:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T06:49:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T06:50:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T06:50:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T06:51:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T06:51:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T07:03:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T07:03:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T07:04:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T07:04:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T07:10:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T07:10:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:03:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:03:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:18:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:18:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:19:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:19:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:20:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:20:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:22:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:22:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:23:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:23:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:33:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:33:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:34:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:34:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:35:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:35:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:40:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:40:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T08:44:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T08:44:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T09:23:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T09:23:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T09:40:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T09:40:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T09:41:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T09:41:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T09:48:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T09:48:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T09:49:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T09:49:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T09:53:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T09:53:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T09:57:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T09:57:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T10:00:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T10:00:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T10:19:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T10:19:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T10:20:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T10:20:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T10:24:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T10:24:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T10:31:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T10:31:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T10:34:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T10:34:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T10:37:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T10:37:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T11:10:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T11:10:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T12:02:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T12:02:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T12:05:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T12:05:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T12:06:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T12:06:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-05T12:16:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-05T12:16:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 25,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T05:24:00.000Z",
+                "endTs": "2016-04-05T05:49:00.000Z"
+            },
+            {
+                "totalMins": 22,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-04-05T05:49:00.000Z",
+                "endTs": "2016-04-05T06:11:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T06:11:00.000Z",
+                "endTs": "2016-04-05T06:22:00.000Z"
+            },
+            {
+                "totalMins": 7,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-04-05T06:22:00.000Z",
+                "endTs": "2016-04-05T06:29:00.000Z"
+            },
+            {
+                "totalMins": 20,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T06:29:00.000Z",
+                "endTs": "2016-04-05T06:49:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-04-05T06:49:00.000Z",
+                "endTs": "2016-04-05T06:52:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T06:52:00.000Z",
+                "endTs": "2016-04-05T06:53:00.000Z"
+            },
+            {
+                "totalMins": 10,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-05T06:53:00.000Z",
+                "endTs": "2016-04-05T07:03:00.000Z"
+            },
+            {
+                "totalMins": 5,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T07:03:00.000Z",
+                "endTs": "2016-04-05T07:08:00.000Z"
+            },
+            {
+                "totalMins": 6,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-04-05T07:08:00.000Z",
+                "endTs": "2016-04-05T07:14:00.000Z"
+            },
+            {
+                "totalMins": 13,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T07:14:00.000Z",
+                "endTs": "2016-04-05T07:27:00.000Z"
+            },
+            {
+                "totalMins": 8,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-04-05T07:27:00.000Z",
+                "endTs": "2016-04-05T07:35:00.000Z"
+            },
+            {
+                "totalMins": 8,
+                "startTz": "America/New_York",
+                "type": "interruption",
+                "startTs": "2016-04-05T07:35:00.000Z",
+                "endTs": "2016-04-05T07:43:00.000Z"
+            },
+            {
+                "totalMins": 8,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T07:43:00.000Z",
+                "endTs": "2016-04-05T07:51:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-04-05T07:51:00.000Z",
+                "endTs": "2016-04-05T08:03:00.000Z"
+            },
+            {
+                "totalMins": 39,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-05T08:03:00.000Z",
+                "endTs": "2016-04-05T08:42:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-04-05T08:42:00.000Z",
+                "endTs": "2016-04-05T08:45:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-05T08:45:00.000Z",
+                "endTs": "2016-04-05T08:47:00.000Z"
+            },
+            {
+                "totalMins": 37,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T08:47:00.000Z",
+                "endTs": "2016-04-05T09:24:00.000Z"
+            },
+            {
+                "totalMins": 8,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-05T09:24:00.000Z",
+                "endTs": "2016-04-05T09:32:00.000Z"
+            },
+            {
+                "totalMins": 13,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T09:32:00.000Z",
+                "endTs": "2016-04-05T09:45:00.000Z"
+            },
+            {
+                "totalMins": 16,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-05T09:45:00.000Z",
+                "endTs": "2016-04-05T10:01:00.000Z"
+            },
+            {
+                "totalMins": 9,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T10:01:00.000Z",
+                "endTs": "2016-04-05T10:10:00.000Z"
+            },
+            {
+                "totalMins": 10,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-05T10:10:00.000Z",
+                "endTs": "2016-04-05T10:20:00.000Z"
+            },
+            {
+                "totalMins": 14,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T10:20:00.000Z",
+                "endTs": "2016-04-05T10:34:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-05T10:34:00.000Z",
+                "endTs": "2016-04-05T10:46:00.000Z"
+            },
+            {
+                "totalMins": 68,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T10:46:00.000Z",
+                "endTs": "2016-04-05T11:54:00.000Z"
+            },
+            {
+                "totalMins": 5,
+                "startTz": "America/New_York",
+                "type": "interruption",
+                "startTs": "2016-04-05T11:54:00.000Z",
+                "endTs": "2016-04-05T11:59:00.000Z"
+            },
+            {
+                "totalMins": 27,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-05T11:59:00.000Z",
+                "endTs": "2016-04-05T12:26:00.000Z"
+            }
+        ],
+        "id": "57eec158dd97fbe82c9f772b"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-05-17T03:47:00.000Z",
+        "totalMins": 458,
+        "lightMins": 334,
+        "endTs": "2016-05-17T11:25:00.000Z",
+        "updatedAt": "2016-09-30T19:47:36.688Z",
+        "interruptions": 0,
+        "quality": 88,
+        "createdAt": "2016-09-30T19:47:36.688Z",
+        "deepMins": 23,
+        "startTz": "America/Los_Angeles",
+        "endTz": "America/Los_Angeles",
+        "unknownMins": 7,
+        "remMins": 94,
+        "date": "2016-05-16",
+        "tossTurns": 50,
+        "interruptMins": 0,
+        "events": [
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T05:41:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T05:41:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T05:42:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T05:42:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T05:52:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T05:52:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T05:53:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T05:53:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T05:57:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T05:57:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T05:58:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T05:58:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T06:06:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T06:06:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T06:09:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T06:09:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T06:21:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T06:21:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T06:25:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T06:25:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T07:34:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T07:34:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T07:39:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T07:39:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T07:43:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T07:43:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T07:45:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T07:45:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T07:47:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T07:47:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T07:56:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T07:56:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T08:04:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T08:04:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T08:12:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T08:12:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T08:13:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T08:13:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T08:15:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T08:15:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T08:58:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T08:58:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T08:59:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T08:59:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:09:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:09:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:11:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:11:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:12:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:12:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:13:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:13:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:14:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:14:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:19:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:19:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:22:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:22:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:24:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:24:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:28:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:28:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:32:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:32:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:38:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:38:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:39:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:39:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:47:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:47:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T09:52:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T09:52:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:02:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:02:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:10:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:10:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:13:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:13:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:18:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:18:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:20:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:20:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:22:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:22:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:23:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:23:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:30:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:30:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:40:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:40:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:41:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:41:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:42:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:42:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T10:59:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T10:59:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T11:08:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T11:08:00.000Z"
+            },
+            {
+                "endTz": "America/Los_Angeles",
+                "type": "toss_and_turn",
+                "startTs": "2016-05-17T11:17:00.000Z",
+                "startTz": "America/Los_Angeles",
+                "endTs": "2016-05-17T11:17:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 57,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-17T03:47:00.000Z",
+                "endTs": "2016-05-17T04:44:00.000Z"
+            },
+            {
+                "totalMins": 1,
+                "startTz": "America/Los_Angeles",
+                "type": "deep",
+                "startTs": "2016-05-17T04:44:00.000Z",
+                "endTs": "2016-05-17T04:45:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/Los_Angeles",
+                "type": "unknown",
+                "startTs": "2016-05-17T04:45:00.000Z",
+                "endTs": "2016-05-17T04:48:00.000Z"
+            },
+            {
+                "totalMins": 22,
+                "startTz": "America/Los_Angeles",
+                "type": "deep",
+                "startTs": "2016-05-17T04:48:00.000Z",
+                "endTs": "2016-05-17T05:10:00.000Z"
+            },
+            {
+                "totalMins": 9,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-17T05:10:00.000Z",
+                "endTs": "2016-05-17T05:19:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-05-17T05:19:00.000Z",
+                "endTs": "2016-05-17T05:31:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/Los_Angeles",
+                "type": "unknown",
+                "startTs": "2016-05-17T05:31:00.000Z",
+                "endTs": "2016-05-17T05:33:00.000Z"
+            },
+            {
+                "totalMins": 9,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-05-17T05:33:00.000Z",
+                "endTs": "2016-05-17T05:42:00.000Z"
+            },
+            {
+                "totalMins": 123,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-17T05:42:00.000Z",
+                "endTs": "2016-05-17T07:45:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/Los_Angeles",
+                "type": "unknown",
+                "startTs": "2016-05-17T07:45:00.000Z",
+                "endTs": "2016-05-17T07:47:00.000Z"
+            },
+            {
+                "totalMins": 18,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-05-17T07:47:00.000Z",
+                "endTs": "2016-05-17T08:05:00.000Z"
+            },
+            {
+                "totalMins": 58,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-17T08:05:00.000Z",
+                "endTs": "2016-05-17T09:03:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-05-17T09:03:00.000Z",
+                "endTs": "2016-05-17T09:15:00.000Z"
+            },
+            {
+                "totalMins": 57,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-17T09:15:00.000Z",
+                "endTs": "2016-05-17T10:12:00.000Z"
+            },
+            {
+                "totalMins": 24,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-05-17T10:12:00.000Z",
+                "endTs": "2016-05-17T10:36:00.000Z"
+            },
+            {
+                "totalMins": 28,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-17T10:36:00.000Z",
+                "endTs": "2016-05-17T11:04:00.000Z"
+            },
+            {
+                "totalMins": 19,
+                "startTz": "America/Los_Angeles",
+                "type": "rem",
+                "startTs": "2016-05-17T11:04:00.000Z",
+                "endTs": "2016-05-17T11:23:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/Los_Angeles",
+                "type": "light",
+                "startTs": "2016-05-17T11:23:00.000Z",
+                "endTs": "2016-05-17T11:25:00.000Z"
+            }
+        ],
+        "id": "57eec158dd97fbe82c9f7746"
+    },
+    {
+        "sourceId": "basis",
+        "startTs": "2016-04-12T02:04:00.000Z",
+        "totalMins": 506,
+        "lightMins": 315,
+        "endTs": "2016-04-12T10:30:00.000Z",
+        "updatedAt": "2016-09-30T19:47:36.883Z",
+        "interruptions": 1,
+        "quality": 86,
+        "createdAt": "2016-09-30T19:47:36.883Z",
+        "deepMins": 69,
+        "startTz": "America/New_York",
+        "endTz": "America/New_York",
+        "unknownMins": 5,
+        "remMins": 113,
+        "date": "2016-04-11",
+        "tossTurns": 34,
+        "interruptMins": 4,
+        "events": [
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T02:23:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T02:23:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T02:54:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T02:54:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T03:31:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T03:31:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T03:42:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T03:42:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T03:55:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T03:55:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T04:05:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T04:05:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T04:59:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T04:59:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T05:18:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T05:18:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T05:38:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T05:38:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T05:41:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T05:41:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T06:05:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T06:05:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T06:39:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T06:39:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T06:54:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T06:54:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T06:55:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T06:55:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T06:56:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T06:56:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T07:05:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T07:05:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T07:06:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T07:06:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T07:19:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T07:19:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T07:49:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T07:49:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:16:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:16:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:17:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:17:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:25:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:25:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:28:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:28:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:32:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:32:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:35:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:35:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:37:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:37:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:47:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:47:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:51:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:51:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T08:56:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T08:56:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T10:08:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T10:08:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T10:12:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T10:12:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T10:21:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T10:21:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T10:22:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T10:22:00.000Z"
+            },
+            {
+                "endTz": "America/New_York",
+                "type": "toss_and_turn",
+                "startTs": "2016-04-12T10:25:00.000Z",
+                "startTz": "America/New_York",
+                "endTs": "2016-04-12T10:25:00.000Z"
+            }
+        ],
+        "stages": [
+            {
+                "totalMins": 2,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-04-12T02:04:00.000Z",
+                "endTs": "2016-04-12T02:06:00.000Z"
+            },
+            {
+                "totalMins": 19,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T02:06:00.000Z",
+                "endTs": "2016-04-12T02:25:00.000Z"
+            },
+            {
+                "totalMins": 4,
+                "startTz": "America/New_York",
+                "type": "interruption",
+                "startTs": "2016-04-12T02:25:00.000Z",
+                "endTs": "2016-04-12T02:29:00.000Z"
+            },
+            {
+                "totalMins": 56,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T02:29:00.000Z",
+                "endTs": "2016-04-12T03:25:00.000Z"
+            },
+            {
+                "totalMins": 19,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-12T03:25:00.000Z",
+                "endTs": "2016-04-12T03:44:00.000Z"
+            },
+            {
+                "totalMins": 12,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T03:44:00.000Z",
+                "endTs": "2016-04-12T03:56:00.000Z"
+            },
+            {
+                "totalMins": 15,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-12T03:56:00.000Z",
+                "endTs": "2016-04-12T04:11:00.000Z"
+            },
+            {
+                "totalMins": 2,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T04:11:00.000Z",
+                "endTs": "2016-04-12T04:13:00.000Z"
+            },
+            {
+                "totalMins": 13,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-04-12T04:13:00.000Z",
+                "endTs": "2016-04-12T04:26:00.000Z"
+            },
+            {
+                "totalMins": 15,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T04:26:00.000Z",
+                "endTs": "2016-04-12T04:41:00.000Z"
+            },
+            {
+                "totalMins": 15,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-12T04:41:00.000Z",
+                "endTs": "2016-04-12T04:56:00.000Z"
+            },
+            {
+                "totalMins": 25,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T04:56:00.000Z",
+                "endTs": "2016-04-12T05:21:00.000Z"
+            },
+            {
+                "totalMins": 19,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-12T05:21:00.000Z",
+                "endTs": "2016-04-12T05:40:00.000Z"
+            },
+            {
+                "totalMins": 9,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T05:40:00.000Z",
+                "endTs": "2016-04-12T05:49:00.000Z"
+            },
+            {
+                "totalMins": 46,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-04-12T05:49:00.000Z",
+                "endTs": "2016-04-12T06:35:00.000Z"
+            },
+            {
+                "totalMins": 15,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T06:35:00.000Z",
+                "endTs": "2016-04-12T06:50:00.000Z"
+            },
+            {
+                "totalMins": 10,
+                "startTz": "America/New_York",
+                "type": "deep",
+                "startTs": "2016-04-12T06:50:00.000Z",
+                "endTs": "2016-04-12T07:00:00.000Z"
+            },
+            {
+                "totalMins": 48,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T07:00:00.000Z",
+                "endTs": "2016-04-12T07:48:00.000Z"
+            },
+            {
+                "totalMins": 31,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-12T07:48:00.000Z",
+                "endTs": "2016-04-12T08:19:00.000Z"
+            },
+            {
+                "totalMins": 41,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T08:19:00.000Z",
+                "endTs": "2016-04-12T09:00:00.000Z"
+            },
+            {
+                "totalMins": 3,
+                "startTz": "America/New_York",
+                "type": "unknown",
+                "startTs": "2016-04-12T09:00:00.000Z",
+                "endTs": "2016-04-12T09:03:00.000Z"
+            },
+            {
+                "totalMins": 62,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T09:03:00.000Z",
+                "endTs": "2016-04-12T10:05:00.000Z"
+            },
+            {
+                "totalMins": 14,
+                "startTz": "America/New_York",
+                "type": "rem",
+                "startTs": "2016-04-12T10:05:00.000Z",
+                "endTs": "2016-04-12T10:19:00.000Z"
+            },
+            {
+                "totalMins": 11,
+                "startTz": "America/New_York",
+                "type": "light",
+                "startTs": "2016-04-12T10:19:00.000Z",
+                "endTs": "2016-04-12T10:30:00.000Z"
+            }
+        ],
+        "id": "57eec158dd97fbe82c9f7747"
+    }
+]

@@ -1,0 +1,510 @@
+[
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-06T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.045Z",
+        "createdAt": "2016-10-19T16:29:08.045Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e93b"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-07T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.053Z",
+        "createdAt": "2016-10-19T16:29:08.053Z",
+        "value": 5.9,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e93c"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-08T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.065Z",
+        "createdAt": "2016-10-19T16:29:08.065Z",
+        "notes": "started drinking homemade alkaline water (ph ~ 8.5), 1 juice, 2 ginger tea",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e93d"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-09T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.070Z",
+        "createdAt": "2016-10-19T16:29:08.070Z",
+        "value": 6.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e93e"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-10T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.080Z",
+        "createdAt": "2016-10-19T16:29:08.080Z",
+        "notes": "am alkaline water, licorice tea before bed",
+        "value": 6.5,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e93f"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-11T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.090Z",
+        "createdAt": "2016-10-19T16:29:08.090Z",
+        "notes": "1 ginger tea in early evening",
+        "value": 6.5,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e940"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-12T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.100Z",
+        "createdAt": "2016-10-19T16:29:08.100Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e941"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-13T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.101Z",
+        "createdAt": "2016-10-19T16:29:08.101Z",
+        "notes": "oysters, drinks, beef/rice no veggies for dinner",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e942"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-14T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.115Z",
+        "createdAt": "2016-10-19T16:29:08.115Z",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e943"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-15T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.122Z",
+        "createdAt": "2016-10-19T16:29:08.122Z",
+        "notes": "sushi/sake night before",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e944"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-16T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.129Z",
+        "createdAt": "2016-10-19T16:29:08.129Z",
+        "notes": "POV day 1",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e945"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-17T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.131Z",
+        "createdAt": "2016-10-19T16:29:08.131Z",
+        "notes": "1 bourbon, early dinner",
+        "value": 5.625,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e946"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-19T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.138Z",
+        "createdAt": "2016-10-19T16:29:08.138Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e947"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-20T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.142Z",
+        "createdAt": "2016-10-19T16:29:08.142Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e948"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-21T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.148Z",
+        "createdAt": "2016-10-19T16:29:08.148Z",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e949"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-22T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.153Z",
+        "createdAt": "2016-10-19T16:29:08.153Z",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e94a"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-23T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.160Z",
+        "createdAt": "2016-10-19T16:29:08.160Z",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e94b"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-24T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.165Z",
+        "createdAt": "2016-10-19T16:29:08.165Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e94c"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-25T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.169Z",
+        "createdAt": "2016-10-19T16:29:08.169Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e94d"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-26T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.177Z",
+        "createdAt": "2016-10-19T16:29:08.177Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e94e"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-11-27T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.184Z",
+        "createdAt": "2016-10-19T16:29:08.184Z",
+        "notes": "day after thanksgiving",
+        "value": 5.5,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e94f"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-02T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.201Z",
+        "createdAt": "2016-10-19T16:29:08.201Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e950"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-03T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.204Z",
+        "createdAt": "2016-10-19T16:29:08.204Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e951"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-04T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.204Z",
+        "createdAt": "2016-10-19T16:29:08.204Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e952"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-05T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.206Z",
+        "createdAt": "2016-10-19T16:29:08.206Z",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e953"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-06T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.207Z",
+        "createdAt": "2016-10-19T16:29:08.207Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e954"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-08T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.213Z",
+        "createdAt": "2016-10-19T16:29:08.213Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e955"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-10T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.226Z",
+        "createdAt": "2016-10-19T16:29:08.226Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e956"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-11T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.229Z",
+        "createdAt": "2016-10-19T16:29:08.229Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e957"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-12T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.232Z",
+        "createdAt": "2016-10-19T16:29:08.232Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e958"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-13T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.238Z",
+        "createdAt": "2016-10-19T16:29:08.238Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e959"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-14T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.242Z",
+        "createdAt": "2016-10-19T16:29:08.242Z",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e95a"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-15T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.247Z",
+        "createdAt": "2016-10-19T16:29:08.247Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e95b"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-16T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.252Z",
+        "createdAt": "2016-10-19T16:29:08.252Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e95c"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-17T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.259Z",
+        "createdAt": "2016-10-19T16:29:08.259Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e95d"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-18T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.262Z",
+        "createdAt": "2016-10-19T16:29:08.262Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e95e"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-23T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.266Z",
+        "createdAt": "2016-10-19T16:29:08.266Z",
+        "value": 6.125,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e95f"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-24T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.280Z",
+        "createdAt": "2016-10-19T16:29:08.280Z",
+        "value": 5.625,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e960"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-28T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.291Z",
+        "createdAt": "2016-10-19T16:29:08.291Z",
+        "value": 6.125,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e961"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2015-12-30T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.298Z",
+        "createdAt": "2016-10-19T16:29:08.298Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e962"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-01T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.303Z",
+        "createdAt": "2016-10-19T16:29:08.303Z",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e963"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-03T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.304Z",
+        "createdAt": "2016-10-19T16:29:08.304Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e964"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-05T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.312Z",
+        "createdAt": "2016-10-19T16:29:08.312Z",
+        "value": 6.125,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e965"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-06T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.319Z",
+        "createdAt": "2016-10-19T16:29:08.319Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e966"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-10T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.324Z",
+        "createdAt": "2016-10-19T16:29:08.324Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e967"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-11T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.332Z",
+        "createdAt": "2016-10-19T16:29:08.332Z",
+        "value": 5.75,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e968"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-12T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.339Z",
+        "createdAt": "2016-10-19T16:29:08.339Z",
+        "value": 6,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e969"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-14T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.343Z",
+        "createdAt": "2016-10-19T16:29:08.343Z",
+        "value": 6.125,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e96a"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-15T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.350Z",
+        "createdAt": "2016-10-19T16:29:08.350Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e96b"
+    },
+    {
+        "sourceId": "test strip",
+        "ts": "2016-01-16T12:30:00.000Z",
+        "tz": "America/New_York",
+        "updatedAt": "2016-10-19T16:29:08.360Z",
+        "createdAt": "2016-10-19T16:29:08.360Z",
+        "value": 5.875,
+        "type": "urine",
+        "id": "58079f54c5002aeb6601e96c"
+    }
+]

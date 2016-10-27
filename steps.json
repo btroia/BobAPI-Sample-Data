@@ -1,0 +1,902 @@
+[
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:00:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 12,
+        "id": "57eec14fdd97fbe82c9f5617"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:01:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 21,
+        "id": "57eec14fdd97fbe82c9f5618"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:02:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 51,
+        "id": "57eec14fdd97fbe82c9f5619"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:03:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 46,
+        "id": "57eec14fdd97fbe82c9f561a"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:04:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 34,
+        "id": "57eec14fdd97fbe82c9f561b"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:05:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 32,
+        "id": "57eec14fdd97fbe82c9f561c"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:06:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 25,
+        "id": "57eec14fdd97fbe82c9f561d"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:07:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 47,
+        "id": "57eec14fdd97fbe82c9f561e"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:08:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 21,
+        "id": "57eec14fdd97fbe82c9f561f"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:09:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.126Z",
+        "updatedAt": "2016-09-30T19:47:27.126Z",
+        "value": 3,
+        "id": "57eec14fdd97fbe82c9f5620"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:10:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.127Z",
+        "updatedAt": "2016-09-30T19:47:27.127Z",
+        "value": 15,
+        "id": "57eec14fdd97fbe82c9f5621"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:11:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.127Z",
+        "updatedAt": "2016-09-30T19:47:27.127Z",
+        "value": 31,
+        "id": "57eec14fdd97fbe82c9f5622"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:12:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.127Z",
+        "updatedAt": "2016-09-30T19:47:27.127Z",
+        "value": 11,
+        "id": "57eec14fdd97fbe82c9f5623"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:13:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.127Z",
+        "updatedAt": "2016-09-30T19:47:27.127Z",
+        "value": 23,
+        "id": "57eec14fdd97fbe82c9f5624"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:14:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.127Z",
+        "updatedAt": "2016-09-30T19:47:27.127Z",
+        "value": 94,
+        "id": "57eec14fdd97fbe82c9f5625"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:15:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.127Z",
+        "updatedAt": "2016-09-30T19:47:27.127Z",
+        "value": 43,
+        "id": "57eec14fdd97fbe82c9f5626"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:16:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.127Z",
+        "updatedAt": "2016-09-30T19:47:27.127Z",
+        "value": 12,
+        "id": "57eec14fdd97fbe82c9f5627"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:17:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 13,
+        "id": "57eec14fdd97fbe82c9f5628"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:18:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 23,
+        "id": "57eec14fdd97fbe82c9f5629"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:19:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 7,
+        "id": "57eec14fdd97fbe82c9f562a"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:20:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 46,
+        "id": "57eec14fdd97fbe82c9f562b"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:21:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 21,
+        "id": "57eec14fdd97fbe82c9f562c"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:22:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 7,
+        "id": "57eec14fdd97fbe82c9f562d"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:23:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 12,
+        "id": "57eec14fdd97fbe82c9f562e"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:24:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 93,
+        "id": "57eec14fdd97fbe82c9f562f"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:25:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 51,
+        "id": "57eec14fdd97fbe82c9f5630"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:26:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 49,
+        "id": "57eec14fdd97fbe82c9f5631"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:27:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 58,
+        "id": "57eec14fdd97fbe82c9f5632"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:28:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 123,
+        "id": "57eec14fdd97fbe82c9f5633"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:29:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 119,
+        "id": "57eec14fdd97fbe82c9f5634"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:30:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 122,
+        "id": "57eec14fdd97fbe82c9f5635"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:31:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 118,
+        "id": "57eec14fdd97fbe82c9f5636"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:32:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 118,
+        "id": "57eec14fdd97fbe82c9f5637"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:33:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 103,
+        "id": "57eec14fdd97fbe82c9f5638"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:34:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 118,
+        "id": "57eec14fdd97fbe82c9f5639"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:35:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 97,
+        "id": "57eec14fdd97fbe82c9f563a"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:36:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 103,
+        "id": "57eec14fdd97fbe82c9f563b"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:37:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 15,
+        "id": "57eec14fdd97fbe82c9f563c"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:38:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 32,
+        "id": "57eec14fdd97fbe82c9f563d"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:39:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 32,
+        "id": "57eec14fdd97fbe82c9f563e"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:40:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 29,
+        "id": "57eec14fdd97fbe82c9f563f"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:41:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 18,
+        "id": "57eec14fdd97fbe82c9f5640"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:42:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.141Z",
+        "updatedAt": "2016-09-30T19:47:27.141Z",
+        "value": 29,
+        "id": "57eec14fdd97fbe82c9f5641"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:43:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 13,
+        "id": "57eec14fdd97fbe82c9f5642"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:44:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 14,
+        "id": "57eec14fdd97fbe82c9f5643"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:45:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 73,
+        "id": "57eec14fdd97fbe82c9f5644"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:46:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 106,
+        "id": "57eec14fdd97fbe82c9f5645"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:47:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 109,
+        "id": "57eec14fdd97fbe82c9f5646"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:48:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 94,
+        "id": "57eec14fdd97fbe82c9f5647"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:49:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 90,
+        "id": "57eec14fdd97fbe82c9f5648"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:50:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 107,
+        "id": "57eec14fdd97fbe82c9f5649"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:51:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 111,
+        "id": "57eec14fdd97fbe82c9f564a"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:52:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 91,
+        "id": "57eec14fdd97fbe82c9f564b"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:53:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 100,
+        "id": "57eec14fdd97fbe82c9f564c"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:54:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 77,
+        "id": "57eec14fdd97fbe82c9f564d"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:55:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 106,
+        "id": "57eec14fdd97fbe82c9f564e"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:56:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 96,
+        "id": "57eec14fdd97fbe82c9f564f"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:57:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 55,
+        "id": "57eec14fdd97fbe82c9f5650"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:58:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 18,
+        "id": "57eec14fdd97fbe82c9f5651"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T04:59:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 53,
+        "id": "57eec14fdd97fbe82c9f5652"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:00:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 7,
+        "id": "57eec14fdd97fbe82c9f5653"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:01:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 12,
+        "id": "57eec14fdd97fbe82c9f5654"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:02:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 44,
+        "id": "57eec14fdd97fbe82c9f5655"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:03:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 40,
+        "id": "57eec14fdd97fbe82c9f5656"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:04:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 51,
+        "id": "57eec14fdd97fbe82c9f5657"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:05:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 103,
+        "id": "57eec14fdd97fbe82c9f5658"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:06:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 108,
+        "id": "57eec14fdd97fbe82c9f5659"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:07:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 113,
+        "id": "57eec14fdd97fbe82c9f565a"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:08:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 86,
+        "id": "57eec14fdd97fbe82c9f565b"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:09:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 70,
+        "id": "57eec14fdd97fbe82c9f565c"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:10:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 87,
+        "id": "57eec14fdd97fbe82c9f565d"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:11:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 93,
+        "id": "57eec14fdd97fbe82c9f565e"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:12:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 95,
+        "id": "57eec14fdd97fbe82c9f565f"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:13:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 92,
+        "id": "57eec14fdd97fbe82c9f5660"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:14:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 77,
+        "id": "57eec14fdd97fbe82c9f5661"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:15:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 98,
+        "id": "57eec14fdd97fbe82c9f5662"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:16:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 90,
+        "id": "57eec14fdd97fbe82c9f5663"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:17:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 92,
+        "id": "57eec14fdd97fbe82c9f5664"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:18:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 72,
+        "id": "57eec14fdd97fbe82c9f5665"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:19:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 91,
+        "id": "57eec14fdd97fbe82c9f5666"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:20:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 98,
+        "id": "57eec14fdd97fbe82c9f5667"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:21:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 100,
+        "id": "57eec14fdd97fbe82c9f5668"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:22:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 49,
+        "id": "57eec14fdd97fbe82c9f5669"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:23:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 9,
+        "id": "57eec14fdd97fbe82c9f566a"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:24:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 67,
+        "id": "57eec14fdd97fbe82c9f566b"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:25:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 75,
+        "id": "57eec14fdd97fbe82c9f566c"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:26:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 26,
+        "id": "57eec14fdd97fbe82c9f566d"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:27:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 11,
+        "id": "57eec14fdd97fbe82c9f566e"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:28:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 79,
+        "id": "57eec14fdd97fbe82c9f566f"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:29:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 89,
+        "id": "57eec14fdd97fbe82c9f5670"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:30:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 89,
+        "id": "57eec14fdd97fbe82c9f5671"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:31:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 81,
+        "id": "57eec14fdd97fbe82c9f5672"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:32:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 83,
+        "id": "57eec14fdd97fbe82c9f5673"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:33:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 48,
+        "id": "57eec14fdd97fbe82c9f5674"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:34:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 43,
+        "id": "57eec14fdd97fbe82c9f5675"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:35:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 82,
+        "id": "57eec14fdd97fbe82c9f5676"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:36:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 86,
+        "id": "57eec14fdd97fbe82c9f5677"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:37:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.142Z",
+        "updatedAt": "2016-09-30T19:47:27.142Z",
+        "value": 72,
+        "id": "57eec14fdd97fbe82c9f5678"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:38:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.143Z",
+        "updatedAt": "2016-09-30T19:47:27.143Z",
+        "value": 80,
+        "id": "57eec14fdd97fbe82c9f5679"
+    },
+    {
+        "sourceId": "basis",
+        "ts": "2015-08-01T05:39:00.000Z",
+        "tz": "America/New_York",
+        "createdAt": "2016-09-30T19:47:27.143Z",
+        "updatedAt": "2016-09-30T19:47:27.143Z",
+        "value": 92,
+        "id": "57eec14fdd97fbe82c9f567a"
+    }
+]
